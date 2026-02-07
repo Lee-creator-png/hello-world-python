@@ -1,2 +1,5 @@
-# hello-world-python
-second year of my studies.
+ - Full Name: RANGALEEAN KAWINA
+   - Student Number: 20255544131
+   - Program of Study: BACHELOR OF SCIENCE IN ICT PURE
+   - Course Name: ICT 214 PROGRAMMING 2
+   - Short project description: THIS PROGRAM PRINTS OUT HELLO WORLD.
